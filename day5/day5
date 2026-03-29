@@ -1,4 +1,4 @@
-## SUM TREE AND ROOT DATA WITH THIS SUM
+## FIND SUM OF EACH SUBTREE AND RETURN TREE SUM INTO ROOT->DATA
 
   #include <bits/stdc++.h>
 using namespace std;
